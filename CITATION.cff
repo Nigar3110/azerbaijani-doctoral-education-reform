@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated paper as below."
+title: "Why Reform Does Not Become Transformation: Asymmetric Morphogenetic Agency and Systemic Transformation in Azerbaijani Doctoral Education"
+authors:
+  - family-names: "Gibbs"
+    given-names: "Paul"
+    affiliation: "Middlesex University; Azerbaijan University"
+    email: "p.gibbs@mdx.ac.uk"
+  - family-names: "Ismayılova"
+    given-names: "Nigar"
+    affiliation: "Azerbaijan State Oil and Industry University"
+    email: "nigar.ismailova@asoiu.edu.az"
+  - family-names: "Rzayeva"
+    given-names: "Narmin"
+    affiliation: "Leiden University"
+    email: "n.drrzayeva@tudelft.nl"
+  - family-names: "Asadli"
+    given-names: "Nijat"
+    affiliation: "Boston University"
+    email: "nijat.asadli@eatda.edu.az"
+  - family-names: "Sattarova"
+    given-names: "Ulkar"
+    affiliation: "Maastricht University"
+    email: "ulker.rzaeva@gmail.com"
+version: 1.0.0
+date-released: "2026-08-25"
+license: MIT
+repository-code: "[GITHUB REPO URL HERE]"
+keywords:
+  - doctoral education
+  - survey data
+  - supervision
+  - student well-being
+  - Azerbaijan
+  - higher education reform
+  - morphogenesis
